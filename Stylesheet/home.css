@@ -306,6 +306,7 @@ h3.heading{
     width: 100%;
     border-radius: 50%;
     height: 70%;
+    object-fit: cover;
 }
 .sign-up .lead{
     text-transform: capitalize;
